@@ -36,7 +36,7 @@ const cloudscraper = require("cloudscraper");
 
 // ========== CONFIG ==========
 
-const TELEGRAM_TOKEN = "8435090261:AAFXw7VjAqk8GD3iUGDeM38t2bsJJzQxj5Q";
+const TELEGRAM_TOKEN = "7872687548:AAE_A-pxkDJeZ2z3f79o-xSob3k9iUlgTew";
 
 const TELEGRAM_CHAT_ID = "-1003171100676";
 
