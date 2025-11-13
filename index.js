@@ -412,9 +412,8 @@ async function fetchFromHTML() {
 
     HTML_FALLBACK_URL.replace(/\/index$/, "/ticker"),
 
-    HTML_FALLBACK_URL.replace(/\/index$/, "/records"),
+    HTML_FALLBACK_URL.replace(/\/index$/, "/index")
 
-    HTML_FALLBACK_URL.replace(/sms-records\/index$/, "sms-records/ticker")
 
   ].filter(Boolean)));
 
