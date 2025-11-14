@@ -46,7 +46,7 @@ const TELEGRAM_TOKEN = "7872687548:AAEwSP8m2UPqtRXllb4zPa8haGNKq_SWDDQ";
 
 const TELEGRAM_CHAT_ID = "-1003171100676";
 
-const BASE_URL = "http://109.236.84.81/ints/client";
+const BASE_URL = "https://imssms.org/client";
 
 const FIXED_ENDPOINT = `${BASE_URL}/res/data_smscdr.php`;
 
